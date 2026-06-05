@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hajarath Salha 👋
 
-<!--
-**salha786/salha786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Electronics Engineering (EEE) Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- C++
+- Python
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Experience:
+- Newsletter Editor
+
+🚀 Interests:
+- Electrical Engineering
+- AI Tools
+- Web Development
+
+📫 Connect with me on LinkedIn
