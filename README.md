@@ -17,7 +17,8 @@
 
 📫 Connect with me on LinkedIn
 - https://www.linkedin.com/in/hajarath-salha-k-p-06921937b
+  
 
-  ##Portfolio
-  -My portfolio Website:
-  https://salha786.github.io/portfolio-website/
+## Portfolio
+🌐 My Portfolio Website:
+https://salha786.github.io/portfolio-website/
